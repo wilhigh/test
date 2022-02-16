@@ -1,0 +1,9 @@
+id\test\springboottesting\util\annotation\ValidPassword.class
+id\test\springboottesting\model\User.class
+id\test\springboottesting\repository\UserRepository.class
+id\test\springboottesting\exception\NotValidPasswordException.class
+id\test\springboottesting\util\annotation\PasswordConstraintValidator.class
+id\test\springboottesting\service\UserService.class
+id\test\springboottesting\exception\ExceptionHandling.class
+id\test\springboottesting\exception\UserRegistrationException.class
+id\test\springboottesting\SpringBootTestingApplication.class
